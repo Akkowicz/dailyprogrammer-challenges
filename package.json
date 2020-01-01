@@ -1,0 +1,22 @@
+{
+  "name": "dailyprogrammer-challenges",
+  "version": "1.0.0",
+  "description": "dailyprogrammer-challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akkowicz/dailyprogrammer-challenges.git"
+  },
+  "author": "Mateusz Przybyłowicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akkowicz/dailyprogrammer-challenges/issues"
+  },
+  "homepage": "https://github.com/Akkowicz/dailyprogrammer-challenges#readme",
+  "dependencies": {
+    "inquirer": "^7.0.1"
+  }
+}
